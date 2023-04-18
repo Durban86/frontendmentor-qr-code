@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images\screenshot.png)
+![completed screenshot](https://github.com/Durban86/frontendmentor-qr-code/blob/main/images/screenshot.png)
 
 ### Links
 
@@ -41,8 +41,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
--To focus on mobile first
--To ensure accessibility 
+- To focus on mobile first
+- To ensure accessibility 
 
 
 ## Author
